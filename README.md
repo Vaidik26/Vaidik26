@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Vaidik Yadav
+## Hi there! 👋 I'm Vaidik Yadav
 
 Welcome to my GitHub! I'm a Data Analyst with a passion for learning and solving complex problems through data. I'm currently expanding my knowledge into Data Science and applying machine learning techniques to create data-driven solutions. I enjoy working with Python, machine learning algorithms, and creating insightful data visualizations.
 
