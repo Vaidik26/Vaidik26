@@ -1,30 +1,89 @@
-## Hi there! 👋 I'm Vaidik Yadav
+# 🚀 Hi there! I'm Vaidik Yadav 👋  
 
-Welcome to my GitHub! I'm a Data Analyst with a passion for learning and solving complex problems through data. I'm currently expanding my knowledge into Data Science and applying machine learning techniques to create data-driven solutions. I enjoy working with Python, machine learning algorithms, and creating insightful data visualizations.
+Welcome to my GitHub!  
+I’m a **Data Analyst → Data Scientist in transition** with a passion for **Machine Learning, Generative AI, and Data-Driven Solutions**.  
+I enjoy transforming raw data into actionable insights, building intelligent systems, and exploring how **AI can power real-world applications**.  
 
-## About Me
+---
 
-🧑‍💻 I am currently transitioning from a Data Analyst to a Data Scientist role.
-🧠 I'm skilled in Python, pandas, NumPy, matplotlib, seaborn, Power BI, and machine learning.
-🎓 I am pursuing a BTech in Computer Science and Engineering from Gyan Ganga College of Technology, graduating in 2025.
-💼 I have hands-on experience with data visualization and data modeling tools.
+## 🌟 About Me  
 
-## My Skills
+- 🎓 **BTech in Computer Science & Engineering** | Gyan Ganga College of Technology | *Graduating 2025*  
+- 💼 **Data Analyst @ Platinus Technology Pvt Limited** (1.5+ years of experience)  
+- 🧑‍💻 Transitioning into **Data Scientist / AI Engineer roles**  
+- 🔬 Exploring **Generative AI, LLMs, LangChain, RAG, and MLOps**  
+- 🎯 Goal: Build scalable, production-ready **AI-driven solutions**  
 
-Programming Languages: Python, SQL
-Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn, Power BI, scikit-learn, XGBoost
-Data Science Areas: Machine Learning, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization
-Database Management: MySQL, MongoDB
-Cloud: AWS (basic)
+---
 
-## Let's Connect
+## 🛠️ My Skills  
 
-Feel free to connect with me through:
+### 📊 Data & Analytics  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 
-📧 Email: vaidiky90@gmail.com
-📝 LinkedIn: [linkedin.com/in/vaidikyadav](https://www.linkedin.com/in/vaidik-yadav-260a60248/)
+### 🤖 Data Science & ML  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5E2F?style=for-the-badge&logoColor=white)  
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)  
+![EDA](https://img.shields.io/badge/EDA-0081CB?style=for-the-badge&logo=data&logoColor=white)  
 
-Fun Facts
+### 🌐 Cloud & Deployment  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 
-I love learning new things, especially in data science and technology.
-I’m always looking for new challenges to improve my skills and knowledge.
+### ✨ Generative AI & Advanced AI  
+![LangChain](https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge&logoColor=white)  
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
+![RAG](https://img.shields.io/badge/RAG-00C7B7?style=for-the-badge&logoColor=white)  
+![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white)  
+
+---
+
+## 📌 Featured Projects  
+
+- 🥛 **Milk Quality Classification (ML)** → GradientBoosting-based model for predicting milk quality  
+- 🏥 **Insurance Premium Prediction (ML)** → CatBoost regression with automated ML pipelines  
+- 📚 **Legal Advisor Chatbot (GenAI)** → Indian law-focused **RAG chatbot** with Hugging Face embeddings + LlamaIndex  
+- 📈 **Stock Price Movement Prediction (DL)** → Deep Learning (LSTM/Transformer) pipeline for stock forecasting  
+
+🔗 **Explore more projects in my [Portfolio](https://vaidik26.github.io/Vaidik.github.io//portfolio/)**  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VaidikYadav&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaidikYadav&theme=radical" alt="GitHub Streak" height="160"/>  
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaidikYadav&layout=compact&theme=radical" alt="Top Languages" height="160"/>  
+</p>  
+
+---
+
+## 📬 Let's Connect  
+
+📧 **Email:** [vaidiky90@gmail.com](mailto:vaidiky90@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/vaidikyadav](https://www.linkedin.com/in/vaidik-yadav-260a60248/)  
+🌐 **Portfolio:** [vaidik26.github.io](https://vaidik26.github.io/Vaidik.github.io//portfolio/)  
+
+---
+
+## ⚡ Fun Facts  
+
+- 💡 Love exploring **how AI reshapes industries** (Healthcare, Finance, Law, Telecom, ESG).  
+- 📖 Always learning — currently diving deep into **Multimodal GenAI & MLOps**.  
+- 🎯 Believe in **"Learning by Building"** — most of my projects are **end-to-end & production-ready**.  
+
+---
+
+✨ *"Turning data into intelligence, and intelligence into impact."* ✨
