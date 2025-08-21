@@ -60,12 +60,12 @@ I enjoy transforming raw data into actionable insights, building intelligent sys
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaidikYadav&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaidikYadav&theme=radical" alt="GitHub Streak" height="160"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaidik26&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaidik26&theme=radical" alt="GitHub Streak" height="160"/>  
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaidikYadav&layout=compact&theme=radical" alt="Top Languages" height="160"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaidik26&layout=compact&theme=radical" alt="Top Languages" height="160"/>  
 </p>  
 
 ---
