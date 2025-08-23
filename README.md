@@ -92,7 +92,7 @@
   
   | 📚 **Legal Advisor Chatbot** | 📈 **Stock Price Prediction** |
   |--------------------------------|--------------------------------|
-  | **Indian law-focused RAG chatbot with Hugging Face + LlamaIndex**<br>![LangChain](https://img.shields.io/badge/LangChain-0FA958?style=flat&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black) | **Deep Learning pipeline (LSTM/Transformer) for stock forecasting**<br>![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+  | **Indian law-focused RAG chatbot with Hugging Face + LlamaIndex**<br>![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0FA958?style=flat&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black) | **Deep Learning pipeline (LSTM/Transformer) for stock forecasting**<br>![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
   
 </div>
 
