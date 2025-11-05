@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  ### 🎯 **Data Analyst → Data Scientist in Transition**
+  ### 🎯 **Data Science & AI Enthusiast exploring real-world applications of Machine Learning and Generative AI.**
   
   **Passionate about Machine Learning, Generative AI, and Data-Driven Solutions**
   
@@ -28,7 +28,7 @@
   
   | 🎓 **Education** | 💼 **Experience** | 🎯 **Current Focus** |
   |------------------|-------------------|----------------------|
-  | **BTech in Computer Science & Engineering**<br>Gyan Ganga College of Technology<br>*Graduating 2025* | **Data Analyst @ Platinus Technology**<br>1.5+ years of experience<br>Transitioning to Data Scientist/AI Engineer | **Generative AI & LLMs**<br>**LangChain, RAG, MLOps**<br>**Production-ready AI Solutions** |
+  | **BTech in Computer Science & Engineering**<br>Gyan Ganga College of Technology<br>*Graduating 2025* | **AI & Data Science Enthusiast**<br>Worked on multiple end-to-end projects involving Data Analysis, Machine Learning, and Generative AI. Experienced with model deployment, automation pipelines, and data-driven problem solving through personal and academic projects. | **Generative AI & LLMs**<br>**LangChain, RAG, MLOps**<br>**Production-ready AI Solutions** |
   
 </div>
 
