@@ -98,7 +98,7 @@
 
 <div align="center">
   
-  🔗 **[Explore More Projects → Portfolio](https://vaidik26.github.io/Vaidik.github.io//portfolio/)**
+  🔗 **[Explore More Projects → Portfolio]([https://vaidik26.github.io/Vaidik.github.io//portfolio/](https://netflixportfolio-one.vercel.app/))**
   
 </div>
 
@@ -153,7 +153,7 @@
   
   [![Email](https://img.shields.io/badge/Email-vaidiky90@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaidiky90@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaidik%20Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaidik-yadav-260a60248/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Vaidik26.github.io-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://vaidik26.github.io/Vaidik.github.io//portfolio/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Vaidik26.github.io-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)]([https://vaidik26.github.io/Vaidik.github.io//portfolio/](https://netflixportfolio-one.vercel.app/))
   [![GitHub](https://img.shields.io/badge/GitHub-Vaidik26-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaidik26)
   
 </div>
